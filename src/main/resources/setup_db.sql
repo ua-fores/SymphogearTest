@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON sampledb.* to 'user'@'localhost';
